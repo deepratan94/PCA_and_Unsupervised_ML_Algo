@@ -1,0 +1,24 @@
+1. OPEN COMMAND PROMPT
+2.TO CHECK GIT VERSION- git --version
+2.Add Readme.md file
+	1. open file location in command prompt- cd [file_location]
+	   file_location = E:\12. Principal Component Analysis(PCA) and Unsupervised Algo
+	2. open folder location in command prompt - E:
+	3. Initialize git- git init
+	4. To see directory- dir
+	5. git global config- 	git config --global user.name "John Doe"
+				git config --global user.email johndoe@example.com
+	6. To check global config- git config --global user.name
+				   git config --global user.email
+	7. Command to clear the screen- cls
+	8. create README.md file- echo "# PCA_and_Unsupervised_ML_Algo" >> README.md
+	9. add README.md file- git add README.md
+	10. To check git status- git status
+	11. To commit- git commit -m "This is my first commit"
+	12. To check git branch- git branch
+	13. To rename git branch- git branch -M main
+	14. git remote add origin https://github.com/deepratan94/PCA_and_Unsupervised_ML_Algo.git
+	15. git remote -v
+	16. git push origin main
+
+3. To clone git repository- git clone https://github.com/deepratan94/PCA_and_Unsupervised_ML_Algo.git
